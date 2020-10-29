@@ -421,4 +421,4 @@ lpp.on("ready", () => {
       },minutes * 60000);
     }})
 
-lpp.login('NzY2NjQ5ODI1MTQ3NzQ4MzYy.X4mcSQ.K1QUQWCtf43dzXGrB4iM0aSAhp4')
+lpp.login('')
