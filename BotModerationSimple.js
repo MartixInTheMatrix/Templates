@@ -295,4 +295,4 @@ message.channel.send({
           message.channel.send(cadegageEmbed);
       
         }}});
-al.login('NzY3NzYzNzc0NTMzNzk1ODcw.X42pvA.WchEL71H_BeeFuM-knDWTWGkQ0A')
+al.login('noppp')
