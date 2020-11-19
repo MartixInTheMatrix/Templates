@@ -1,3 +1,4 @@
+//Il faut impérativement créer un script bdd.json et mettre dedans : {}, pour que la commande fonctionne
 const fs = require('fs')
  client.on('message', async (message) => {
     if (message.content === prefix + "antibot on") {
