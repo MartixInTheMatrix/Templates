@@ -131,4 +131,4 @@ client.on("ready", () => {
           })
           }})
 
-client.login('NzgzNDMxNjA5Mjg5NDA4NTEz.X8apiw.MBBszuT76ox7Dz6dD6PAgi32I_g')
+client.login('Ton token')
