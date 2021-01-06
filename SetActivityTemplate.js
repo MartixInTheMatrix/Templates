@@ -10,7 +10,7 @@
       dr.user.setActivity(activities_list[index], {
         status: "online",
         type: "STREAMING",
-        url: "https://twitch.tv/dubrin"
+        url: "https://twitch.tv/squeezie"
       });
     }, 2000);
     console.log(
