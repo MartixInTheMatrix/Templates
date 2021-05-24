@@ -1,7 +1,7 @@
  const activities_list = [
-    `Bot Utilities Devs Center`,
-    `Dev By ⚡̶̔͑Z̷͆̀ê̵͝u̶̽͘ṡ̴̔⚡̷͌̆#0069`,
-    `</>help`
+    `Status 1`,
+    `Status 2`,
+    `Status 3`
   ];
   
  client.on("ready", () => {
